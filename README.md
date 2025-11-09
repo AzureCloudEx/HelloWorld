@@ -1,6 +1,6 @@
 # Azure Backend Demo (Spring Boot)
 
-A simple Spring Boot backend service ready to deploy on Azure.
+A very simple Spring Boot backend service ready to deploy on Azure.
 
 ## Local Run
 
